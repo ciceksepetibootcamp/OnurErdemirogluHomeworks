@@ -49,9 +49,9 @@ Yukarıda örnek bir kullanıcı arama ve test scriptlerini görüyoruz. **Envir
 Sorgulamanın ardından Test Result kısmında testin başarılı olup olmadığını rahatlıkla görebiliyoruz.
 
 KAYNAKLAR
-[how-use-postman-manage-and-execute-your-apis](https://www.blazemeter.com/blog/how-use-postman-manage-and-execute-your-apis)
-[getting-started-introduction](https://learning.postman.com/docs/getting-started/introduction/)
-[what-is-postman-api-test](https://www.encora.com/insights/what-is-postman-api-test)
+[how-use-postman-manage-and-execute-your-apis](https://www.blazemeter.com/blog/how-use-postman-manage-and-execute-your-apis)<br>
+[getting-started-introduction](https://learning.postman.com/docs/getting-started/introduction/)<br>
+[what-is-postman-api-test](https://www.encora.com/insights/what-is-postman-api-test)<br>
 ..
 
 Bir sonra ki yazımda görüşmek üzere…
