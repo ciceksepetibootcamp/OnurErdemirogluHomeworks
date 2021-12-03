@@ -92,10 +92,10 @@ Görüldüğü üzere **PageSpeed Insights**, web sitenizi hem **mobil** hem de 
 
 ### KAYNAKLAR
 
-https://www.semrush.com/blog/how-to-improve-your-google-pagespeed-insights-score/
-https://www.turhost.com/blog/google-pagespeed-insights-nedir/
-https://www.searchenginejournal.com/google-pagespeed-insights-guide/422854/
-https://kinsta.com/blog/google-pagespeed-insights/
+https://www.semrush.com/blog/how-to-improve-your-google-pagespeed-insights-score/<br>
+https://www.turhost.com/blog/google-pagespeed-insights-nedir/<br>
+https://www.searchenginejournal.com/google-pagespeed-insights-guide/422854/<br>
+https://kinsta.com/blog/google-pagespeed-insights/<br>
 
 Bir sonra ki yazımda görüşmek üzere…
 
