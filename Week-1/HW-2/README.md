@@ -1,4 +1,4 @@
-# Çiçek Sepeti Bootcamp Ödev 1
+# Çiçek Sepeti Bootcamp Ödev 2
 
 
 ## Test Class 1 Senaryoları
